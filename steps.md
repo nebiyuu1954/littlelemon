@@ -51,7 +51,16 @@
 				drwxr-xr-x 1 **********4096  0Dec  2 09:58 ../
 				drwxr-xr-x 1 **********4096  0Dec  209:58 .git/
 				-rw-r--r-- 1 ********** 4096 14 Dec  2 09:58 README.md
-		5, 		
+		5, 	create and change the neccesary files
+		
+		6,	$ git status
+		
+		7,	Add the steps.md to the stage.
+				$ git add newfile.txt
+		
+		8,	commit changes 
+				$ git commit -m "updated steps.md"  
+		
 		
 		
 		
