@@ -60,13 +60,28 @@
 		
 		8,	commit changes 
 				$ git commit -m "updated steps.md"  
+				
+		9, git push -u origin master
 		
 		
 		
+	2, install all the dependecies
 		
+		1, pipenv install and activate pipenv shell
 		
+		2, pipenv install django
 
+		3, django-admin startproject littlelemon		
+		
+		4, python manage.py startapp restaurant 
+		
+		5, important step - control+shift+p then select the python interpreter 
+						  - then put in the name of your created project to restart the terminal to activate the enviroment
+						  
+		6, git add . (to add multiple files to the staging area)
 
+		7, git push origin master
+		
 
 
 
